@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ddef8259-d176-495f-8d0c-117e33d85284": {
+      "ProjectGuid": "ddef8259-d176-495f-8d0c-117e33d85284",
+      "DisplayName": "Simi",
+      "ColorIndex": 0
+    },
+    "806b39d9-0f6d-4a3b-b0eb-6e2aad069a20": {
+      "ProjectGuid": "806b39d9-0f6d-4a3b-b0eb-6e2aad069a20",
+      "DisplayName": "Simi.Manutencao",
+      "ColorIndex": 1
+    },
+    "40c0bb58-5be8-4f3e-a0ce-892b25e38b45": {
+      "ProjectGuid": "40c0bb58-5be8-4f3e-a0ce-892b25e38b45",
+      "DisplayName": "Simi.Ficha",
+      "ColorIndex": 2
+    },
+    "04218693-2455-4908-bebc-2864111d3e2b": {
+      "ProjectGuid": "04218693-2455-4908-bebc-2864111d3e2b",
+      "DisplayName": "Simi.DataBase",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,5 @@
+C:\Users\natan\Downloads\Simi\Simi\Simi.Ficha\bin\Debug\Simi.Ficha.dll
+C:\Users\natan\Downloads\Simi\Simi\Simi.Ficha\bin\Debug\Simi.Ficha.pdb
+C:\Users\natan\Downloads\Simi\Simi\Simi.Ficha\obj\Debug\Simi.Ficha.csproj.CoreCompileInputs.cache
+C:\Users\natan\Downloads\Simi\Simi\Simi.Ficha\obj\Debug\Simi.Ficha.dll
+C:\Users\natan\Downloads\Simi\Simi\Simi.Ficha\obj\Debug\Simi.Ficha.pdb
